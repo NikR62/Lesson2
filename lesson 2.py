@@ -1,0 +1,5 @@
+number_of_completed_tusks_HW = (12)
+number_of_hours_spent = (1.5)
+course_name = ('Python')
+time_per_tusk = (1.5/12)
+print('Course:',course_name,'total issues', number_of_completed_tusks_HW,'hourse spent', number_of_hours_spent,'averga lead time', time_per_tusk)
